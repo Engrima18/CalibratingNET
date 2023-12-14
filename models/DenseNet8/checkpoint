@@ -1,0 +1,2 @@
+model_checkpoint_path: "DenseNet8_weights"
+all_model_checkpoint_paths: "DenseNet8_weights"
